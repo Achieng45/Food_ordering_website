@@ -1,0 +1,54 @@
+
+   
+ 
+ .navigation a:hover {
+  background-color:#ddd;
+  color: black;
+}
+      
+ .navigation{
+  background-color: pink;
+  overflow: hidden;
+}
+      
+.navigation a {
+  float: left;
+  
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.second{
+	border: 1px solid #333;
+	background-color: #f1f1f1;
+	border-radius: 5px;padding: 16px;
+}
+body{
+	background-color: white;
+
+	
+
+background-image: url("DOWNLOADS/nyama choma.jpg ");
+
+  
+  height: 100%;
+
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;}
+}
+
+        table,td{
+         border:  5px solid gold;
+         color: white;
+         font-size: 20px;
+         background-color: black;
+         
+
+        }
+table{
+   border-collapse:collapse;
+   
+  }

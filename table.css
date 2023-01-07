@@ -1,0 +1,13 @@
+
+        table,td{
+         border:  5px solid gold;
+         color: white;
+         font-size: 20px;
+         background-color: black;
+         
+
+        }
+table{
+   border-collapse:collapse;
+   
+  }
